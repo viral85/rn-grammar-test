@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993694244723",
+    "project_id": "grammer-test-6ecc7",
+    "storage_bucket": "grammer-test-6ecc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993694244723:android:de1686cb8b7461f0a0ef06",
+        "android_client_info": {
+          "package_name": "com.grammertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993694244723-0o20cgqgu4k9vrppanl1orr42ffacpvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grammertest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "993694244723-ul648spbjrtce7ccep7c5jio458eodmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoqqcL5NBl_0OrutEW3LaJboGabWroLK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993694244723-ul648spbjrtce7ccep7c5jio458eodmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
